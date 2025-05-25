@@ -1,5 +1,5 @@
 # 📱 SMS Spam Classifier | NLP Project  
-**Author:** Nitish Raj | [LinkedIn](https://linkedin.com/in/vnr-nitish)
+**Author:** Nitish Raj Vinnakota | [LinkedIn](https://linkedin.com/in/vnr-nitish)
 
 ---
 
