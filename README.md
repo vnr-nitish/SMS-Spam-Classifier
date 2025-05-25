@@ -72,7 +72,7 @@ To build a robust SMS classifier that automatically filters out spam messages us
 - **Seaborn**, **Matplotlib**
 - **scikit-learn**
 - **TF-IDF Vectorization**
-- **Jupyter Notebook**
+- **Google Colab**
 
 ---
 
